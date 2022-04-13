@@ -6,11 +6,11 @@ include("./functions/helper.php");
 $users = [
     "umutakpinar" => [
         "password" => "123456",
-        "email" => "umtakpnr5@gmail.com"
+        "email" => "umtakpnr@mail.com"
     ],
-    "onurakpinar" => [
+    "preloader" => [
         "password" => "123456",
-        "email" => "onrakpnr@gmail.com"
+        "email" => "prelaoder@mail.com"
     ],
 ];
 
